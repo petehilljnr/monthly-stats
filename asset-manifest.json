@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/petehilljnr.github.io/monthy-stats/static/css/main.42dc3b51.css",
+    "main.js": "/petehilljnr.github.io/monthy-stats/static/js/main.7cebdb14.js",
+    "static/media/downer.svg": "/petehilljnr.github.io/monthy-stats/static/media/downer.7c3240217358a0f7deecb9b6428a7d64.svg",
+    "index.html": "/petehilljnr.github.io/monthy-stats/index.html",
+    "main.42dc3b51.css.map": "/petehilljnr.github.io/monthy-stats/static/css/main.42dc3b51.css.map",
+    "main.7cebdb14.js.map": "/petehilljnr.github.io/monthy-stats/static/js/main.7cebdb14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42dc3b51.css",
+    "static/js/main.7cebdb14.js"
+  ]
+}
